@@ -1,0 +1,2270 @@
+body {
+    background-image: url("pictures/background2.jpg");
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    margin: 0px;
+}
+
+#container {
+    background: transparent;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#contact {
+    background-color: grey;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+#header {
+    background-color: black;
+    opacity: 0.4;
+    color: #A0CFEC;
+    text-align: center;
+    font-size: 3em;
+}
+
+#header2 {
+    background-color: grey;
+    color: white;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    opacity: 0.9;
+    border-radius: 10px;
+    
+}
+
+#who {
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+#nav ul {
+    padding: 0;
+    background-color: white;
+    width: 900px ;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+#nav li {
+    display: inline;
+}
+
+#nav .selected{
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+#main {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 1.2em;
+}
+
+#main-index1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 1.2em;
+}
+
+#main-index2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 475px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 1.2em;
+}
+
+#main-skills {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.8;
+    font-size: 1.2em;
+}
+
+#portfolio-heading {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 1.2em;
+}
+
+#main-protfolio {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects5 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects6 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects7 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects8 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects9 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects10 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects11 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-projects12 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+}
+
+#main-portfolio-ios-notes1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    margin: 11px;
+    height: 215px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes5 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes6 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes7 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes8 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes9 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes10 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes11 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes12 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes13 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes14 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes15 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes16 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes17 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes18 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes19 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes20 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes21 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    margin: 11px;
+    height: 215px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes22 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes23 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes24 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes25 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes26 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes27 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes28 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes29 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes30 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes31 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes32 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes33 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes34 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes35 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes36 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes37 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes38 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes39 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes40 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes41 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes42 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes43 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes44 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ios-notes45 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-5 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-6 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-7 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-8 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-9 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-10 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-11 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-12 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-13 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-14 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-15 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-16 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-17 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-18 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-19 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-20 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-21 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-22 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-23 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-24 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-25 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-26 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-27 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-28 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-29 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-30 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-31 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-32 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-33 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-34 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-35 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-36 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-37 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-38 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-39 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-40 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-41 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-42 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-43 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-44 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-45 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-46 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-47 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-48 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-49 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-50 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-51 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-52 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-53 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-54 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-55 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-56 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-57 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-58 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-59 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-60 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-61 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-62 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+
+#main-portfolio-ruby-63 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-64 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-65 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-66 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-ruby-67 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-html-1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-html-2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-html-3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-5 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-6 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-7 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-8 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-portfolio-javascript-9 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 300px ;
+    height: 215px;
+    margin: 11px;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1.2em;
+    float: left;
+}
+
+#main-interview1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview5 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview6 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview7 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview8 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview9 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-interview10 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-expertadvise1 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-expertadvise2 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+    align.images: left;
+}
+
+#main-expertadvise3 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+#main-expertadvise4 {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 1.2em;
+}
+
+
+#main-expertadvise-book-list {
+    background-color: #E5E4E2;
+    padding: 5px ;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    opacity: 0.8;
+    font-size: 1.2em;
+}
+
+
+#footer {
+    padding: 5px;
+    background-color: #999;
+    color: white;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.82;
+    width: 1150px ;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#footer li {
+    display: inline;
+}
+
+
+
